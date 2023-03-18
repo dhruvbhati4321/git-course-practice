@@ -1,4 +1,4 @@
 Welcome to my project!
 
-Author: Dhruv Bhati
+Author: Dhruv Singh Bhati
 Twitter: @dhruv
